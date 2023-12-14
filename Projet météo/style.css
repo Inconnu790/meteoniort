@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    background-image: url(csm_22012014-La_Breche___c__B_Derbord08_149efe3461.webp);
+}
+
+#weather-container {
+    background-color: #80a9df;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 5px 0 rgba(0, 0, 0, 0.5);
+}
+
+
+.margin {
+    margin-bottom: 20px;
+}
